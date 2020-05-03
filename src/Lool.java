@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.util.function.Supplier;
 
+
+//comment
 public class Lool {
 	public static void main(String[] args) {
 		Supplier<Human> human = () -> {
